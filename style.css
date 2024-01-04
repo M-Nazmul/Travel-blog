@@ -3,14 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+.header_container{
+    background: url("Images/animal_a.jpg") no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+    width: 100%;
+    height: 65vh;
+}
 h1{
-    background-color: lightgreen;
     padding: 20px;
     text-align: center;
 }
 .container{
     width: 100%;
-    height: 50vh;
+    height: auto;
     background-color: antiquewhite;
 }
 .main{
